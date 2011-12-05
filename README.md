@@ -5,6 +5,12 @@ Note: This code is offered as-is with no guarantees. It was written in 2006, whi
 License
 --------
 
-Everything in /inc is copyright of the respective authors and may not be used without their express permission.
+The following directories and their contents are copyright of the respective authors. You may not reuse anything therein without my permission:
+
+* inc/art
+* inc/authors
+* inc/MSfiles
+* inc/pages
+* inc/wordSearches
 
 All other files are MIT licensed. Feel free to use them as you please. If you do use them, a link back to [metamorphium.com](http://metamorphium.com) would be appreciated, but is not required.
