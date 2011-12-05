@@ -1,0 +1,1 @@
+<?php$name = 'Admin';// $avatar = getAvatar();$bio = 'I am the admin!!';?>

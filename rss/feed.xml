@@ -1,0 +1,15 @@
+<?xml version="1.0"?> 
+<rss version="2.0">
+<channel>
+<title>Amalgam RSS Feed</title>
+<description>Amalgam RSS Feed</description>
+<link>http://www.amalgammag.com</link>
+<copyright>Copyright 2007 Amalgam. All rights reserved.</copyright>
+
+     <item> 
+        <title>Amalgam: Issue 9 - January 2007</title> 
+        <description>Issue 9 Released!</description> 
+        <link>http://www.amalgammag.com/#i9</link> 
+     </item>
+</channel>
+</rss>

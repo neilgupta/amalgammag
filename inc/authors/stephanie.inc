@@ -1,0 +1,1 @@
+<?php$name = 'Stephanie Lio';$bio = 'Stephanie enjoys shopping (but not spending), pistachio & white chocolate chip cookies, and journaling. Her friends can testify that she can talk extensively about a lot of things, including <u>Gone with the Wind</u>, her experiences in the world of Speech and Debate, and the many uses of Nutella.';?>

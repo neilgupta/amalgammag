@@ -1,0 +1,1 @@
+<?php$name = 'Gwynnie Vernon';$bio = 'A sophomore in high school, Gwynnie has had a lot of experience dealing with exasperating parents and depression issues. She enjoys playing basketball, making and eating anything sweet, and snuggling with her Golden Retriever puppy Tumble.';?>

@@ -1,0 +1,27 @@
+<?php
+
+$aid = 'neil';
+$title = 'Hollywood Deathmatch: Movie Critics vs. Moviegoers';
+$cid = c12;
+$issueid = i7;
+$body = 
+"
+<p>X-Men: The Last Stand. The Da Vinci Code. Superman Returns. Pirates of the Caribbean: Dead Man's Chest. What do all of these movies have in common? They are all 2006 summer blockbusters that fought the once-respected decree of the movie critics to the last penny.</p>
+
+<p><b><a href=\"http://www.rottentomatoes.com/m/x_men_3_the_last_stand/\">X-Men: The Last Stand</a></b> - To put it bluntly: this movie got horrible reviews. Rated at 57% rotten by Rotten Tomatoes, X3 was considered yet another utter failure of Brett Ratner. (Personally, I agree. This movie is one of the worst I've seen all year.) However, the numbers tell a different story, as X3 went ahead to break several box office records. Achieving the fourth highest opening weekend sales and second-highest opening day sales at the time of its release (displaced by Pirates of the Caribbean 2 a couple months later), this movie definitely proved the critics wrong.</p>
+
+<p><b><a href=\"http://www.rottentomatoes.com/m/da_vinci_code/\">The Da Vinci Code</a></b> - Surprisingly, this movie got even worse reviews than X3. Receiving a depressing 24% rotten, the movie probably collapsed under the weight of its own publicity. With soaring expectations, even a slight failure to meet caused the critics to throw their arms up in fury. Still, The Da Vinci Code also managed to break some records, ranking first in worldwide sales for 2006 and 21st for all-time worldwide sales. Considering the craptastic reviews it got, I would say these are amazing achievements. However, I have not seen this movie myself and cannot comment on the idiocy or saneness of the critics.</p>
+
+<p><b><a href=\"http://www.rottentomatoes.com/m/superman_returns/\">Superman Returns</a></b> - Ah, the odd one out of the bunch. This movie actually got GOOD reviews at 76% fresh. In fact, compared to the other summer blockbusters, the critics had slated this one to be a smash hit. And lo and behold, this movie flops over like a dead fish and sinks to the bottom of the tank. Selling the worst of the four, Superman has nothing to claim, except a measly 6th place in domestic box office sales for 2006, which is not even over yet. I found this movie to be decently directed and produced, with amazing special effects. However, the plot was lackluster at best, causing me to leave the theater going \"heh.\"</p>
+
+<p><b><a href=\"http://www.rottentomatoes.com/m/pirates_of_the_caribbean_dead_mans_chest/\">Pirates of the Caribbean: Dead Man's Chest</a></b> - Last, but certainly not least, the Pirates of the Caribbean sequel brings it in for the most debated film of the year. Days before its public release, movie critics were unanimously tossing this movie out with the junk, labeling it a failure that would make you \"ashamed you liked the first one.\" Depressed by the amazingly low reviews the movie had gotten, I reluctantly trudged to the movie theater to watch it due to the amazing trailer alone. To keep it short, the movie had brilliant humor and action, and I immediately found this to far exceed the first. Luckily, I was not alone in this conclusion. Moviegoers around the globe flocked to watch this blockbuster, with Pirates 2 plundering the box offices once again. Breaking <i>many</i> box office records, Pirates of the Caribbean sailed into first place for opening day gross, opening weekend sales, fastest $100 million earned, fastest $200 million earned, and fastest $300 million. It's also in third place for largest second and third weekends, as well as the widest opening release. And it's still topping the box office today with much more money to come in. Now, remember all those critics that gave this movie two thumbs down? They were quick to change their tune after the first box office estimates started rolling in. CNN immediately published new reviews, praising the film for its brilliance and soaring box office records, despite having published a review only days earlier labeling it as a \"Bermuda Triangle of bad.\" Despite this change in tune, the overall rating of PotC:DMC remained at 54% rotten according to Rotten Tomatoes, completely opposing the judgment of the public and the box office sales.</p>
+
+<p>To add to the hypocrisy of CNN, they ran a story similar to this article on the morning of July 24th, asking if people listened to the critics anymore, citing other critics as having given Pirates of the Caribbean 2 horrible reviews despite its success. (Coincidently, their coverage of the story happened only days after I had proposed my article idea to certain people over IM and had begun writing it. I swear, CNN and the NSA are in cahoots to spy on my conversations.)</p>
+
+<p>However, I don't think the question should be \"Do people listen to the movie critics anymore?\" It should be \"Should people listen to the movie critics anymore?\" And the short and obvious answer to that question is a resounding \"No.\"</p>
+
+<p>This will certainly be the last time I judge a movie based on pre-release reviews alone. Instead, if the director can entice me with an attractive trailer, I am certainly willing to go ahead and spend $6 to watch the movie and form my own opinion. Of course, you will inevitably end up watching some really crappy movies (*cough* X3 *cough*), but that's what makes the good movies even more enjoyable, right?</p>
+";
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

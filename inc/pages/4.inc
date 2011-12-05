@@ -1,0 +1,1 @@
+<?php$aid = 'ruchi';$title = "Answer to \"Riddle: Colonel Sanders' Chicken Recipe\"";$cid = c18;$issueid = i1;$body = "<p>Here is the answer to <a href=\"/?id=2\">Riddle: Colonel Sanders' Chicken Recipe</a>.</p><p><strong>Answer:</strong> 5 6 0 2 9 3 8 4 1 7 </p>";include ($Server_incRoot . 'authors/' . $aid . '.inc');?>

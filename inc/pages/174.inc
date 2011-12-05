@@ -1,0 +1,25 @@
+<?php
+
+$aid = 'gwynnie';
+$title = 'Irrevocably Entwined';
+$cid = c22;
+$issueid = i9;
+$body = 
+'
+<p>I had loved her ever since we were children. Our families had known one another for decades, and it had always been a fact that once we came of age, Vida and I would marry. Up until that time, however, our families began to drift apart, as my father\'s business went bankrupt and our apartment became dirtier and colder. Shame colored my face when Vida would smile and wave at me when we met in the street--she in her new clothes and me in my torn and heavily patched breeches. I remember looking upon her as my playmate and best friend when we were children, then as an object of beauty in my adolescence, but in the months leading up to our marriage, I began to follow her, to go out of my way to catch a glimpse of my beloved, as I had come to call her in my mind. I began to carry around the pocketknife Vida had given me for Christmas a few weeks ago next to my heart, a symbol of my deep love for her.</p>
+<p>The night of my birthday, I counted the minutes until I could finally marry Vida. Looking down into the alleyway between our two apartments, I saw to my delight the stunning form of Vida, clad in a white dress that made her appear to be an angel. My heart felt so full of love as I looked at her, that joyous tears sprung to my eyes, so happy was I. Looking at the small rusted clock on my beside table, I found it to be midnight, and officially my birthday. Elated, I crept down the stairs and out of the house, my heart singing as I approached the darkened alley. Rats skittered past my silent feet, and toothless man leered at me from his nest of rags against the slimy brick wall. Vida was sure to be happy to see me, and I could finally tell her that we could finally be united. I followed her small footprints in the grime, and at the time I did not wonder why my angel would be in such a filthy, disgusting place. Yet as I pressed on, I began to worry. Where was she? Had I passed her already? No, surely that was not possible. I loved her with every inch of my flesh. I would not have missed her.</p>
+<p>Up ahead, the alley turned to the left, and I saw a flash of white disappear around the corner. Hurrying forward, I felt sinful lust curl in my heart next to the undying love I held for Vida. A few feet from the corner, I heard the musical voice of Vida float up through the air, but to my shock, her voice was joined by another, much deeper one. Stopping abruptly, I listened intently.</p>
+<p>"Quickly now, I have to get back before Mary notices I\'m not in bed," Vida giggled. In my delusion, even having heard the other voice, I thought she spoke to me, that knowing I was here, that she wanted me to have chased her. I opened my mouth to reply, but the other voice spoke first.</p>
+<p>"Darling, you worry too much," it replied silkily, sending an icy chill down my spine. She was <i>my</i> Darling, not the voices. Who was my beloved meeting with out here at such a late hour?</p>
+<p>"No, not here...Duane could see...We have to keep ourselves secret if we intend to elope," Vida breathed out, driving a pike straight through my heart, through my soul.</p>
+<p>"No one will see us."</p>
+<p>Rage filled me, boiling through my veins. Vida was <i>mine</i>; she always had been! This traitor had seduced her, my pure, beautiful angel over to his lusty desires, and she had fallen prey in her innocence. Shaking with fury, I pulled out the pocketknife Vida had given to me and turned the corner.</p>
+<p>Vida and her lover stood mere feet before me, lips joined, horribly blissful together. My vision clouded over in frenzied wrath, as the single thought of separating the two lovers became my goal. I plunged the pocketknife into the body nearest mine, watching in sick joy as the crimson blood stained the white material a deep red.</p>
+<p>I could see again now, and suddenly Vida lay on the ground, eyes open in shock, hair fanned out like a halo around her, her heart turning her dress red with every beat of her heart. The boy with her stared at me in horror, and then turned and ran as my eyes met his. Bending down to Vida, I saw the recognition light up in her eyes.</p>
+<p>"Why?" she asked, retching slightly as a trickle of blood dribbled down her chin and over her lips.</p>
+<p>"Oh Vida, my angel, you were only meant to be mine," I whispered, bending down to stroke her face. I had thought her beautiful before, but now she was breath-taking. Her pale, pale face so lovely against the scarlet of her blood...</p>
+<p>"We were meant to be together, my angel. If I can\'t have you in life, then I will have you in death," I murmured lovingly. Tears began to stream down her cheeks as her breathing grew shallower. Taking the pocket blade, I drove it deep into my heart, gasping just as she had done. Yanking it from my body, I crawled over to Vida, pulling her limp body to mine. As our hearts beat together and our blood united, we were married in blood, my angel and I.</p>
+';
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

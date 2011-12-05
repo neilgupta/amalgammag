@@ -1,0 +1,1 @@
+<?php$aid = 'emily';$title = 'Oil Painting #1';$cid = c5;$issueid = i1;$body = '<img width=576 height=432 src="/amalgam/inc/art/14.jpg" />';include ($Server_incRoot . 'authors/' . $aid . '.inc');?>

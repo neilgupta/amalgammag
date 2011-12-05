@@ -1,0 +1,22 @@
+<?php
+
+$aid = 'emily';
+$title = 'Ain\'t no second chance for a first impression';
+$cid = c5;
+$issueid = i6;
+$body = 
+"
+<p><img src=\"inc/MSfiles/125/1.gif\" alt=\"We need help - all we can do is make noise\" /></p>
+<p>&nbsp;</p>
+<p>I give props to people who are willing to step out of their comfort zone - do things that are out of the 'norm'. It takes courage, determination, and a whole lot else to put oneself out there in uncharted territory. Ryan Keberly has done just that and more with his project, \"The Snowsuit Effort.\" He graduated from Wayne State University in 2000 with a Bachelor in Fine Arts and is currently working as a graphic artist and website coder. His flexible day job allows him to \"pursue [his] creative interest\" and he has found some time to recognize those that live and breathe the streets of Detroit. He grabs his camera and goes out onto the streets, listening to every individual's story of pain, suffering, and loss. With his camera and the raw and genuine close-ups taken, he has captured the reality of these individuals' stories and their lives. This site, these images, this project... is The Snowsuit Effort.</p>
+<p>I came across this site at the 2006 Bloggie Awards, and I instantly became hooked. Ryan Keberly and his \"Snowsuit Effort\" have been recognized globally. Not only was his blog nominated as 2006 Bloggies Finalist, where I happened to come across his site, but his work has also been recognized by NPR's Michigan Radio, Time.com, JPG Magazine, Popular Science, The Big Idea, and many more. When questioning his inspiration, Ryan Keberly answered, \"My initial reaction was to the epidemic of low-rent, weekly apartments that were being converted into luxury loft condominiums. I found the radical shift in social economic class of the housing unsettling. The project really evolved into a large piece on homelessness and poverty.\" He claims that it is a bit intimidating walking up to strangers, making a conversation and making friends, but he believes that we all are too quick to judge. \"We're all guilty of it, including myself. The homeless can't be grouped like those suffering from a common ailment. Each person is different, with unique circumstances and specific needs - yet it takes a fantastic level of resources to treat a crisis on a case-by-case basis.\" He claims that there are many social barriers that we construct around our daily reactions, \"and once you purposely dissolve them, you discover that the world is pretty friendly.\"</p>
+<p>It is difficult to select only a few of Ryan's expansive collection of photos to be featured. Each photo tells a different story; each individual expresses his own thoughts on pain, loss, family, and life. The simplicity of the features is amazing. Ryan could have written down the interview verbatim, detail by detail, accompanying it with several photos of the subject. Instead, he has selected a single picture and a few quotes, allowing these simple selections to unravel and tell the story; he believes that a few compelling quotes can describe a person's character. And I could not agree more.</p>
+<p>The \"Effort\" in his project name emphasizes his determination to create meaningful art by stepping out of his comfort zone. He has allowed the project to grow on its own. \"I've simply let go of the reins and allowed the project to define itself,\" Ryan describes. \"If the project ended tomorrow, I would feel just as fulfilled as if it spanned thirty years.\"</p>
+<p>Along with the Snowsuit Effort, his great interest in photography and capturing the world through his lens has helped inspire a series of on-going projects. \"Some are full defined, others are vague and still taking shape,\" he comments. Last August, his series on abandoned dolls and toys was showcased at a small gallery in Ann Arbor, Michigan. Also, in January, he finished a series of Detroit city scenes that were being presented in the local shop windows during the Super Bowl XL festivities.</p>
+<p>Photography is a great art form and Keberly has captured the essence of its beauty. As an inspired photography student, I asked him what advise he may have for people like me - people with a great passion in photography and wishes to learn more. \"My advice would be to keep shooting!\" And that is exactly what I will do.</p>
+
+<p><b>Visit Ryan Keberly and his Snowsuit Effort @ <a href=\"http://www.snowsuit.net\">www.snowsuit.net</a></b></p>
+";
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallery>
+	<galleryimage alt="Issue 1" href="javascript:loadPage('i1');" id="issue1" class="adnav">
+		<thumbnail>issueButtons/1.gif</thumbnail>
+		<name>Issue 1</name>
+	</galleryimage>
+	<galleryimage alt="Issue 2" href="javascript:loadPage('i2');" id="issue2" class="adnav">
+		<thumbnail>issueButtons/2.gif</thumbnail>
+		<name>Issue 2</name>
+	</galleryimage>
+	<galleryimage alt="Issue 3" href="javascript:loadPage('i3');" id="issue3" class="adnav">
+		<thumbnail>issueButtons/3.gif</thumbnail>
+		<name>Issue 3</name>
+	</galleryimage>
+	<galleryimage alt="Issue 4" href="javascript:loadPage('i4');" id="issue4" class="adnav">
+		<thumbnail>issueButtons/4.gif</thumbnail>
+		<name>Issue 4</name>
+	</galleryimage>
+	<galleryimage alt="Issue 5" href="javascript:loadPage('i5');" id="issue5" class="adnav">
+		<thumbnail>issueButtons/5.gif</thumbnail>
+		<name>Issue 5</name>
+	</galleryimage>
+	<galleryimage alt="Issue 6" href="javascript:loadPage('i6');" id="issue6" class="adnav">
+		<thumbnail>issueButtons/6.gif</thumbnail>
+		<name>Issue 6</name>
+	</galleryimage>
+	<galleryimage alt="Issue 7" href="javascript:loadPage('i7');" id="issue7" class="adnav">
+		<thumbnail>issueButtons/7.gif</thumbnail>
+		<name>Issue 7</name>
+	</galleryimage>
+	<galleryimage alt="Issue 8" href="javascript:loadPage('i8');" id="issue8" class="adnav">
+		<thumbnail>issueButtons/8.gif</thumbnail>
+		<name>Issue 8</name>
+	</galleryimage>
+	<galleryimage alt="Issue 9" href="javascript:loadPage('i9');" id="issue9" class="adnav">
+		<thumbnail>issueButtons/9.gif</thumbnail>
+		<name>Issue 9</name>
+	</galleryimage>
+</gallery>

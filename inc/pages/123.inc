@@ -1,0 +1,23 @@
+<?php
+
+$aid = 'brittany';
+$title = 'Dreaming';
+$cid = c1;
+$issueid = i6;
+$body = 
+"
+<p>The steady beat of music hummed out of the small building on Sunnyside road, teenagers occasionally wandering in and out of the doors. The local church had decided to use the community room to host a \"good, clean, fun\" dance for the teens of the town, and while not nearly as hardcore or entrancing as a real dance, a fair number had shown up just because there was music and it was free, so why not? The shadowed dance area wasn't quite as dark as it should have been due to the bright fluorescent lights that glared down from above the food tables. Brightly colored balloons and streamers were hung up along the walls, as well as a banner with the dance slogan: \"being safe is being fun!\" It said something about the population's excitement level that anyone had showed up at all.</p>
+<p>One girl was sitting on a pulpit against the wall, drinking lazily out of a cup filled with non-spiked punch. She methodically sipped the liquid, an action that kept her mind from becoming too under-stimulated, and when it was finished threw it into one of the garbage cans. She was bored, and she was tired. The teen stood up and pushed her way through the crowd, finding a door and pulling it open to step inside.</p>
+<p>Beyond the door was the boiler room, the giant heater gurgling calmly at the far side. She picked a corner close to the door, pleasantly warm, yet not too hot, and curled up, using her jacket as a pillow. She let her eyes close, hearing the chatter of kids outside, the boiler, the pounding of the music, her breathing. Her mind drifted between sleep and awake, twisting the reality around her to something faraway and unreal. She imagined, for a moment in her mind, that someone was watching over her. Then, however, sleep overcame her.</p>
+<p>In her dream, the boiler stopped. The absence of noise made her open her eyes, and she looked up from her spot inquisitively. There was no sound, not of the boiler and not of the kids outside and their music. She stood, pulling her jacket back on, and opened the door to an empty room, inhabited only by the fluorescent light and a few stray tables. Everyone had left. She walked through the room, loose streamers rustling underfoot, and came to the door. With one steady motion, she opened it to reveal a street lit by early sunset. The harbor shimmered on one side, while tall buildings rose on the other, clearly marking the place an industrial city. She walked, the wind blowing around her as her sneakers scratched the pavement. In the distance was a figure who, as she got closer, was revealed to be a young woman, goggles perched upon short blond hair. The woman noticed her and turned, a friendly smile on her face.</p>
+<p>\"Hello.\"</p>
+<p>The girl didn't answer, she never had the thought to. Waves crashed and turned, their sound oddly magnified, and she found that she was having trouble seeing. Almost reflexively her eyes closed, and she found she couldn't manage to open them again. Something was behind her... she could sense it- a warm, comforting presence. She let herself relax, and the waves faded until they were a low hum. For a moment she thought someone was holding her, but then her eyes fluttered open and she realized where she was: back in the boiler room. Her jacket was partially under her head on the floor, partially draped across her back. She'd rolled into the oddest position, so that her head was on the floor against one wall and her back was against the other, with the back of her neck facing the corner.</p>
+<p>She pushed herself up, willing movement back into her limbs, and just as she did so the door to her refuge opened, revealing a boy of about her age.</p>
+<p>\"There you are,\" he muttered, \"come on, the party's over.\"</p>
+<p>He pushed the door open farther, and she followed him through the now empty room, a few people still cleaning up. The boy pushed open the doors to the quiet neighborhood road, lit by the orange glow of the streetlamps and completely devoid of cars at the current hour. She pulled her jacket around her tighter, looking around at the scenery transformed by night. The boy turned his head to look back at her, slowing his pace ever so slightly so that the distance between them wasn't so far.</p>
+<p>\"Stay close.\"</p>
+<p>She did so readily, casting another look about at the darkness surrounding them.</p>
+";
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

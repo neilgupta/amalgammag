@@ -1,0 +1,26 @@
+<?php
+
+$aid = 'frankwang';
+$title = 'An Introduction to Eminent Domain';
+$cid = c8;
+$issueid = i7;
+$body = 
+"
+<p>During the end of 2005, the Supreme Court made a judgment on <i>Kelo vs. New London</i> in favor of New London. The dispute was over whether or not the government has the authority to take away land from individuals and small businesses to sell it to private enterprises. In the case, the conflict was centered on the Fifth Amendment Taking Clauses, which states that property can be taken for \"public use.\" Therefore, Kelo argued that the use of eminent domain for economic development was not considered public use. However, the decision was a 5-4 for New London, qualifying economic development as a form of \"public use.\" As a result, the government can take land and give to private enterprises with payment of just compensation, the market value of the property. This process of taking the property and providing just compensation is known as eminent domain. In this article, I will try to justify the Supreme Court's decision to allow the government to use eminent domain. Also, I will provide many different opposing viewpoints as well as political theories on why the taking of land is justified on the theoretical level.</p>
+
+<p><b>I. Debating Locke's Social Contract</b></p>
+
+<p>The only key assumption I am going to make is that we are operating in the framework of the United States government. The most common argument made is that the United States operates under a Lockean social contract. This means that citizens give up rights to government so that the government can provide us with rights. The second part of Locke states that citizens have an inviolable right to life, liberty, and property.</p>
+<p>Let us focus our attention on the inviolable right to property. The aspect of Locke that people fail to recognize is that the property belongs to whoever contributed to it. However, critics argue that the owner of the property holds the deed, so he has an absolute right to it. This argument is flawed as many people have not delved deep enough into Locke. Many Lockean concepts influenced the Marxist ideology that developed during the Cold War. However, I am not saying that we should advocate communism or socialism; I am merely presenting a theory showing why the taking of the land is justified despite the fact that the person owns the property. The Lockean and Marxist view dictates that the \"owner\" is not the only person entitled to that land because other people contributed to the creation of the house and its interiors on the land. Therefore, the property belongs to the community as a whole, so the person does not have a unique claim to the property.</p>
+
+<p><b>II. Promoting the Economy</b></p>
+
+<p>When the Supreme Court ruled on the issue, many people argued that their right to property was being violated, but there are several arguments against this. First, they assume that the United States operates on a strict Lockean social contract. The United States used Locke's social contract as a guide in the creation of the Constitution. However, the Constitution does not strictly follow it. Moreover, the right to property is not specified in the Constitution, thus, the government has never directly given the right of property to its citizens.</p>
+<p>The second reason relates directly back to the Marxist ideology. Every person is entitled to the benefits of the property. When eminent domain is used, it takes down individual people's property and builds private enterprises in order to stimulate the economy. Thus, by using eminent domain, everyone benefits from the newly-formed economy. In a prospering society, the government receives more tax revenue from the flourishing businesses. With the extra tax revenue, the government can provide for better social goods, such as health care, police forces, etc.</p>
+<p>All these benefits affect the community as a whole. Therefore, if the person does not allow his property to be expropriated, he is acting only in self-interest and violating the community's claim to the economic benefits of the property. Finally, the individual's reluctance to give up his property constitutes a rights violation. In order to provide for rights protection, the government needs sufficient funds through taxes. By not allowing private enterprises to promote business that lead to more taxes, the person is actually hurting people's rights because he destroys the framework through which rights are protected because the government protects rights by funding police, firefighters, etc. through taxes.</p>
+
+<p>The controversy about eminent domain was part of a debate topic during January and February of 2006. I have only provided a basic conception about why eminent domain is justified and necessary in the United States. In addition, many other countries use the concept of eminent domain under a different name; in the long term, economy benefits justify the use of eminent domain.</p>
+";
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

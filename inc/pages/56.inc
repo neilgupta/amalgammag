@@ -1,0 +1,56 @@
+<?php
+
+$aid = 'kell';
+$title = 'Seris: The Signet of Darkness - Chapter 1';
+$cid = c1;
+$issueid = i4;
+$body = 
+'
+<h12>Chapter 1</h12>
+
+<p><b>Gen</b></p>
+
+<p>"No!" The man cried as the gang members took away the silver necklace he was wearing. He couldn\'t do anything else. His arms were pinned by a muscular-looking gang member who looked like he ate steroids for breakfast.</p>
+<p>"Family heirloom?" the leader of the gang snickered as he fingered the necklace. There was something in his voice. It sounded like it wasn\'t entirely his.</p>
+<p>The man spat in his face. With a snarl of rage, the gang member kicked the old man in the stomach. He fell. Doubled over, he groaned loudly.</p>
+<p>Not that anyone would have heard him. They were in a dark, secret network of alleyways, a labyrinth of filth. Maybe once, it had been the shining centerpiece of the town. A town that once had a reputation as raising one of the greatest architects in history. Maybe once. But this was now. The town was overrun by gangs sweeping in from the north as well as divisions between the townspeople themselves. The common people suffered because of this. This man was only one of many who were starving, dying in the streets. Nothing special.</p>
+<p>Or was he? He was old. His hair, a graying mess of wires. He looked decrepit, an old hound that had been through too many fights. But there was something in his eyes. Eyes that screamed of battles fought and won. Eyes that held a burning fire that wouldn\'t, refused to, die. And when he looked up, the gang leader knew exactly what he was dealing with.</p>
+<p>His name was Gen. Once, maybe once, he could have beaten these men. But he was putting up a good fight. Cursing his old age, he stood up once more. He coughed. A red stain appeared on the ground. He was feeling like a train wreck, but if he was going down, he was going down with a hell of a fight.</p>
+<p>One of the gang scoffed. Gen bitterly thought about how in his prime, he could have silenced him in an instant. <i>Where is Loray?</i>, he wondered, <i>or that good-for-nothing Torren? Those kids are sure taking their precious time.</i></p>
+<p>Aloud, he warned "I\'m only asking you one more time."</p>
+<p>One of the gang members laughed, "That\'s some smart talk for someone who\'s too beat up to stand up straight."</p>
+<p>There was silence. The time for verbal repartee was over. It was only actions that would be carried out now. The gang pressed in.</p>
+<p>Silently, Gen drew a Defensive Circle. A relatively weak spell, but it would do, he hoped. Besides, he was too tired to cast anything else. The only problem with Circles was that they required the user to stay within the sphere to be effective. Luckily, Gen wouldn\'t be moving, any way you looked at it. Without warning, one of the members struck out with a baton. His attack was caught by one of the Circle\'s bands, and he hit a solid wall of air. Puzzled, he drew back. Oblivious to their fellow gang member\'s failure, the other members pressed in. Forming a solid circle around the old man, they got ready to pounce. To the old man\'s surprise, the Defensive Circle weakened and faded. With some alarm, Gen scanned the crowd. They were cloaked in a weak counter-spell. It made sense. With the many new users of magic that were cropping up all over town, the gang leaders couldn\'t afford to let a few a measly spells get in their way. However, it had to have been a pretty powerful magician to weave such a spell on such a large number of people.</p>
+<p>As the gang got closer, things were looking hopeless. Outnumbered at least twenty to one, Gen found that his determination, his fighting spirit, wouldn\'t let him go down peacefully. With a savage cry, he swung at the nearest enemy. There was a distasteful cracking sound as the man\'s jaw broke. That was a shame. Spinning around, he turned to meet an axe coming down on his head.  Gen closed his eyes. <i>Some hell of a fight</i>, he thought as the axe came down.</p>
+
+<p><b>Torren</b></p>
+
+<p>Two teenagers, a boy and a girl, were walking side by side through an abandoned street.</p>
+<p>"It\'s going to take forever to get back at the pace you\'re going at!" complained the girl.</p>
+<p>"Aw, shut it," said the boy, "You know we\'re not getting back for supper anyways."</p>
+<p>"Well, it doesn\'t mean you have to be such a slowpoke!" snapped the girl.</p>
+<p>"And just because you beat the guy under 20 seconds doesn\'t mean that I had an easy time! Maybe I\'m tired!" the boy retorted.</p>
+<p>"I don\'t have to put up with this," mumbled the girl as she walked away.</p>
+<p>The boy, Torren, smiled. Loray had a way of making a point. Still, there was a reason her street name was "Speed Demon." No one was likely to accuse her of being a slowpoke. And it was true. The fight had taken her less than 20 seconds, whereas his had taken close to 3 hours. While feeling bad about the amount of time he had taken to win the fight, he was proud of the fact that he had beaten an opponent who was some 20 years older than him.</p>
+<p>But Loray. Loray was something else. She was a fast-fisted fighter. One of the best, if anything. She could take down anyone, and she was proud of her status as the defending champion of the ring. He wondered where she was. She would be sprinting back home by now, probably using her signature speed-enhancing spells. <i>Oh well</i>, he thought as he closed his eyes, taking in the fresh air and the cool breeze. She could take care of herself. And besides, the sunset was looking beautiful that day.</p>
+
+<p><b>Loray</b></p>
+
+<p>That idiot Torren! She knew when she got back home, she\'d have a few things to say to Gen! Motivated by this thought, she picked up her speed. With a flourish of her hands, she accelerated into a Flit. Flitting was a skill that was rumored to be used by the ancient Wind spirits. Not only did it allow its user to move at superhuman speeds, but while Flitting, the user would be rendered invisible to the naked eye. However, very few humans could master it, as it required a great deal of energy and mental strength, not to mention almost superhuman reflexes. Yet, all these things came naturally to Loray, who had mastered the art at the age of 14. She accelerated again with another flourish of her hands. At this speed, she would surely die if she so much as tripped over a rock. She smiled, remembering the many times her father had warned her not to run so fast. If only he could see her now.</p>
+<p>Her father.</p>
+<p>It had been nearly 3 years since he disappeared. She remembered one day, coming home from what seemed like another day. Just another day. She laughed. Yes, she remembered it as just another day. She remembered...</p>
+
+<p><i>The door was left ajar. Inside, the house was a mess. The place looked as if it had been ransacked. There were papers on the floor, open drawers, obliterated doors, stairs that had broken through, rendering the upstairs area inaccessible. But if anyone had checked, they would have found nothing missing. There was, however, evidence of a large struggle. The doors, the stairs, they were completely destroyed. By the burn marks upon what remained of them, the destruction might have been caused by a fairly high level Inferno. That would have explained most of the damage. But then, there was also the question of the missing father.</i></p>
+<p><i>It was the 3rd room upstairs, down the hall, on the left. It was a fairly large room, lavishly decorated, with its Venetian blinds and Persian carpets. Unlike most rooms, it was a circular room, almost like a tower in its height and width. Overhead, there was a beautiful glass dome, undoubtedly made by skilled craftsmen. It was noon. No doubt at this time of the day, on any other day, the sun would have been directly overhead, shining with its blinding rays through the glass, creating intricate patterns upon the floor. But today, the thunderclouds overhead glowered over the dome, covering all traces of the sun, covering all traces of hope.</i></p>
+<p><i>The 14-year-old girl sitting there with her head bowed down, her name was Celeste. Her father had always said it was a beautiful name. Beautiful. It was a word he often used to describe her mother, who had died giving birth to her. Sometimes, she wondered if he ever hated her for that. Losing a wife, and for what? For a child he\'d never met. He\'d show her pictures of her mother, and for a moment, he didn\'t seem so sad, like he was all the time. Sometimes, she\'d see herself in those pictures. It was the eyes. They both had the same beautiful deep brown eyes that one could get lost in forever and ever...</i></p>
+<p><i>The girl was crying. Any second now, she thought, he would be coming through that door, rushing to console her, to comfort her. But she knew deep inside, in the void that was now her heart, that he was gone.</i></p>
+
+<p><b>Torren</b></p>
+
+<p><i>She\'s going to kill me if I\'m late for dinner</i>, thought Torren as he rushed towards their home, an underground shack hidden in a labyrinth of alleyways. Not much of a home, but it was the best they could do with the gangs coming in left and right. Unless you lived in one of the major cities that could actually afford to have a police force to fend off the gangs, it was almost impossible to live out in the open. It was just as well. Torren and his (if you could call her that) sister, Loray, fought in the local street tournaments for money. Street fighting was a common practice, since many families were poor and had nothing to do to feed themselves. Also, street fighters made a sizeable amount of money, considering that they were somewhat talented. As local champions of the town, Loray and Torren (needless to say) were able to make a pretty good living that way. Plus, Torren had always thought that fighting beat having a job. Loray, on the other hand... for some reason, she hated fighting. If it weren\'t for the fact that Gen was old and could no longer work, she\'d quit. "I don\'t draw out my fights for fun, like you do," she\'d tell him. "But why?" he\'d ask. "Maybe because I only fight because I have to. Maybe fighting isn\'t everything..." She\'d then go on ranting for another hour about the evils of fighting and the need for non-violence and peace in the world. Beyond that, Torren had no idea what she said. He usually stopped listening at the first mention of "non-violence."</p>
+<p>A loud groan interrupted Torren\'s thoughts. Peeking around the corner, he was able to make out the silhouette of several men surrounding what appeared to be an old man... He gasped. He was in time to see an axe, inches from Gen\'s face.</p>
+<p><i>I\'m too late</i>, he thought, as he unsheathed his sword. It was an unusually large broadsword, at least a good 4 feet in length, and it had a black hilt and a silver blade that flashed in the moonlight. As it came out of the sheathe, there was a ringing sound, almost as if it was hungry for blood. <i>I\'m too late</i>, Torren thought, <i>but a lot of people are going to die tonight.</i></p>
+';
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

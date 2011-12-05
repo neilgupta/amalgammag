@@ -1,0 +1,17 @@
+<?php
+
+$aid = 'adnan';
+$title = 'The World Needs to be Invaded by Aliens (And I Mean the Little Green Kind)';
+$cid = c8;
+$issueid = i6;
+$body = 
+"
+<p>I know that you're probably wondering what inane subject I'm talking about - especially considering I've just stated one of the most idiotic ideas ever. Well, it got you to read this and I assure you, if you keep reading, you'll see that it's not that stupid of an idea after all. So what could possibly make me want our beautiful world and peaceful lives to be destroyed by aggressive little green people, who, by the way, are probably ten times more technologically advanced than us?</p>
+<p>Like many of our social conflicts going on today, this idea stemmed from the recent increase in news coverage over illegal immigrants. Pushing aside the illegal war, forgetting about the Scooter Libby case, Americans now focus all their attention on illegal immigrants. It seems like every night, there is another person yelling about how they're American appears on the news. At the same time, Fox News always has some random analyst preaching that illegal immigrants are not true Americans. Why? Because true Americans don't steal anything, especially land (note: none of these analysts seem to know enough U.S. history to realize that stealing land is what America was based on). The analyst then goes on to describe exactly how illegal immigrants don't deserve the same rights as Americans. After hearing this, I turn off the television and start asking myself questions. <i>What did most Americans do to deserve all these benefits that Mexicans didn't? Weren't most Americans born in the country? Did they have to work for it?</i> These questions continue until I have one, final unanswerable question: <i>why do we look at them as Mexicans and not humans?</i></p>
+<p>Now you're probably wondering how any of this has to do with us being invaded by aliens. Well if we were invaded, we'd finally destroy all these idiotic barriers we create. Americans vs. Mexicans, Muslims vs. Hindus, British vs. French, Black vs. White. These are all barricades we created to stop the human race from being united. I have received plenty of flack from people who can't understand why I hate patriotism.</p>
+<p>Of all the \"-ism's,\" patriotism is one of the worst - after racism and classism. Why should I support some KKK member in Mississippi and not a hard-working miner in Sierra Leone? Patriotism has never brought anything to the world... except war. World War I was based off patriotism. The War on Terror was based off patriotism. Too much death has been caused by this -ism and unfortunately, not enough people have questioned why we still live with this deleterious idea.</p>
+<p>So again, back to my alien invasion idea. If we ever are attacked by little green men, I hope that humans will push aside all their pride and differences to stand by each other. I hope we don't question the nationality or the religion of the person standing next to us - the one who's about to be blasted by a death ray. I hope we will look them in the eye, realize that they are human, and save them. Maybe we'll only be alive for one week after the aliens arrive. Maybe we'll be alive for a year. But however long, we'll leave knowing that, in the end, we finally came together as the human race.</p>
+";
+
+include ($Server_incRoot . 'authors/' . $aid . '.inc');
+?>

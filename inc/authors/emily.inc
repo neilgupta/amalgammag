@@ -1,0 +1,1 @@
+<?php$name = 'Emily Chow';$bio = "An avid reader with a great interest in journalism, photography, art, and almost anything else you can possibly think of, Emily loves the simple things in life - \"because it's those things that color the black and white life we see.\"";?>
