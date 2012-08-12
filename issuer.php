@@ -1,7 +1,7 @@
 <?php $pid = $_GET['pid'];
 require_once('inc/functions.inc');
 require_once('inc/arrays.inc');
-$Server_incRoot = "http://www.alankar.net/amalgammag/inc/";
+$Server_incRoot = "http://amalgammag.phpfogapp.com/inc/";
 ?>
 <h1><?php echo getIssue($pid) ?> - <?php echo $issues[$pid] ?></h1><br/>
       <ul class="links">
