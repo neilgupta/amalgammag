@@ -1,7 +1,7 @@
 <?php 
 $pid = $_GET['pid'];
 $pid = substr($pid,0,strlen($pid)-11);
-$Server_incRoot = "http://www.alankar.net/amalgammag/inc/";
+$Server_incRoot = "http://amalgammag.phpfogapp.com/inc/";
 require_once($Server_incRoot . 'functions.inc');
 require_once($Server_incRoot . 'arrays.inc');
 require_once($Server_incRoot . 'pages/' . $pid . '.inc');
